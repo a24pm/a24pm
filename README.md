@@ -75,7 +75,7 @@ Git | GitHub | VS Code | Postman | Figma | Android Studio | Google Cloud | ESP32
 
 - 📧 amalmadhu6049@gmail.com  
 - 💻 GitHub: https://github.com/a24pm  
-- 🔗 LinkedIn: YOUR_LINKEDIN_LINK_HERE  
+- 🔗 LinkedIn: https://www.linkedin.com/in/amalpm/
 
 ---
 
